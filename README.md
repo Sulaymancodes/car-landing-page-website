@@ -1,13 +1,10 @@
-# Responsive Landing Page Headphones 🎧
-## [Watch it on youtube](https://youtu.be/wXnlHIvKnTM)
-### Responsive Landing Page Headphones 🎧
+# Responsive Landing Page Cars 🚗
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+### Responsive Landing Page Cars 🚗
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Stunning car landing page designed using HTML, CSS, and JAVASCRIPT.
+- Sleek, dark interface for a modern look.
+- Smooth animations that enhance the user experience while scrolling.
+- Built with a Mobile First approach, ensuring a seamless experience across devices.
+- Fully compatible with all mobile devices, offering a visually appealing and user-friendly interface.
 
-![](/preview.png)
